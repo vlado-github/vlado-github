@@ -9,7 +9,7 @@ Hi, I'm Vlad - here is some stuff about me:
 - Opened to collaborate with you on any open source project
 - Codes for fun
 
-Available at [http://kiriko.work/contact](http://kiriko.work/contact)
+Available at [https://kiriko.work/contact](https://kiriko.work/contact)
 
 # Consulting
 
