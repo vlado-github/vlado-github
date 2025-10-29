@@ -22,3 +22,4 @@ I offer remote consulting and software development. For more information you can
 - 👯 I’m looking to collaborate on: anything interesting 
 - 💬 Ask me about: C# and .NET, TypeScript, JavaScript, DDD, Unity, Star Trek
 - 📫 How to reach me: kirikowork@duck.com
+- ✍️ Blog at [https://cleverheap.com](https://cleverheap.com).
